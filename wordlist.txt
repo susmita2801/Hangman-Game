@@ -1,0 +1,13 @@
+python
+vizag
+bangalore
+mysore
+chennai
+pune
+noida
+bhubaneswar
+trivandrum
+guntur
+hydrabad
+cuttack
+calicut
